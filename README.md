@@ -1,7 +1,5 @@
 ## Treasure Map
 
-# Instructions
-
 
 This ```map``` contains a nested list.
 When ```map``` is printed this is what the nested list looks like:
